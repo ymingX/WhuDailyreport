@@ -1,5 +1,5 @@
 # WhuDailyreport
-Fake WhuDailyreport (Enhanced edition)
+# Fake WhuDailyreport (Enhanced edition)
 
 modified from https://tigerdahe.github.io/WHUDailyReport/    
 https://tigerdahe.github.io/WHUDailyReport/WebPage
